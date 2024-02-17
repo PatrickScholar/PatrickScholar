@@ -11,7 +11,6 @@
 - **Signal Processing**: Transforming raw data into meaningful insights? Count me in! Whether it's audio, images, or sensor data, I love deciphering patterns and extracting knowledge.
 
 ## **Projects I'm Working On**
-- **Colony Counter**: A program to count the number of bacteria colonies in membrane filtering technique under microbiological analysis of water and waste water given an image.
 - **The Chief Mason**: A contracting company system with the ability to marshal, allocate and manage all of the resources required for construction of the contracted project in order to acheive completion at maximum efficiency of time and cost.
 - **Praeteritus Vijan**: A robust image segmentation program
 
