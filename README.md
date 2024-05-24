@@ -1,12 +1,25 @@
 # Hi, Patrick Scholar here!
   
 ## **About Me**
-- Passionate about exploring the intersection of technology and visual data.
-- Keen on unraveling the mysteries hidden within signals and images.
+- Computer Vision Developer 
+- Windows Application Developer 
+- Numerical Computation Developer 
   
 ## **Speciality**
-- **Computer Vision**: I'm fascinated by the magic of algorithms that can "see" and interpret the world around us
-- **Signal Processing**: Transforming raw data into meaningful insights? Count me in! Whether it's audio, images, or sensor data, I love deciphering patterns and extracting knowledge.
+- Visual and Audio Signal Processing
+- Windows application development
+
+## **Languages**
+- C
+- Octave
+## **Developer Tools**
+- GNU compiler
+- make
+- MSVC
+- Visual Studio
+- Visual Studio Code
+- Git
+- GitHub 
 
 ## **Connect with Me**
 - Feel free to drop me an email: ssegawapatrick994@gmail.com
