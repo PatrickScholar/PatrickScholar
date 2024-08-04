@@ -13,12 +13,12 @@ I enjoy tackling projects that involve;
 
 ## **Programming Languages**
 - C
-- Octave
+
   
 ## **Developer Tools**
 Tools I use in my development cycle:
-- GNU compiler, make
-- MSVC, Visual Studio
+- GNU compiler, Make, MSVC
+- Visual Studio, Visual Studio Code
 - Git, GitHub 
 
 ## **Connect with Me**
