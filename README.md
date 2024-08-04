@@ -3,7 +3,7 @@
 ## **About Me**
 - A dedicated software developer,
 - with a strong foundation in numerical computation and
-- expertise in computer vision and windows application development
+- speciality in computer vision and windows application development
 
 ## **Speciality**
 I enjoy tackling projects that involve;
