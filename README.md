@@ -1,23 +1,15 @@
 # Hi, Patrick Scholar here!
   
 ## **About Me**
-- A dedicated software developer,
-- with a strong foundation in numerical computation and
-- speciality in computer vision and windows application development
-
-## **Speciality**
-I enjoy tackling projects that involve;
-- image and video processing (extract valuable insights from visual data)
-- Audio signal processing
-- Translating physics and mathematical models into code
+- A software developer,
+- with focus and speciality in computer vision systems.
 
 ## **Programming Languages**
 - C
-
   
 ## **Developer Tools**
 Tools I use in my development cycle:
-- GNU compiler, Make, MSVC
+- Msys2, Make, MSVC
 - Visual Studio, Visual Studio Code
 - Git, GitHub 
 
