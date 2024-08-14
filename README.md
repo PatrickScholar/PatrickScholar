@@ -1,11 +1,8 @@
 # Hi, Patrick Scholar here!
   
 ## **About Me**
-- A software developer,
-- with focus and speciality in computer vision systems.
-
-## **Programming Languages**
-- C
+- A sole software developer with focus and speciality in computer vision systems.
+- I use C by the way.
   
 ## **Developer Tools**
 Tools I use in my development cycle:
