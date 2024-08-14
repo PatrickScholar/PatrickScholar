@@ -1,6 +1,4 @@
-# Hi, Patrick Scholar here!
-  
-## **About Me**
+## Patrick Scholar here!
 - A sole software developer with focus and speciality in computer vision systems.
 - I use C by the way.
   
