@@ -1,2 +1,7 @@
-Are you passsionate about computer vision systems?  
-Are your eager to incorporate computer vision technology in your industrial processes?  
+# What I Do
+
+Research in Computer Vision Systems and Automation in the Building Construction Industry
+
+# Languages
+- Python
+- C
