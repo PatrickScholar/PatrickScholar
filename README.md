@@ -4,5 +4,4 @@ Reseacrh, design and development of systems that input visual and/or audio signa
 
 ## Languages
 - C
-- C++
 - Java
